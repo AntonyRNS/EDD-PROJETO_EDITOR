@@ -98,3 +98,5 @@ Este repositório é um excelente recurso para quem deseja aprofundar conhecimen
 * **Estruturas de Dados:** Implementação e uso prático de **Pilhas (Stacks)**.
 * **JavaScript Avançado:** Manipulação de eventos e assincronismo (`Promises`/`Timeouts`).
 * **UX/UI:** Análise de interação do usuário e feedback em tempo real.
+
+TESTE
